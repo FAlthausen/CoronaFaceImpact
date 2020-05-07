@@ -11,5 +11,5 @@ Feel free to play around with this.
 	<source src="Coronamoji.mov" type="video/quicktime">
 
 	<p>Your browser doesn't support HTML5 video. Here is
-		a <a href="Coronamoji.mov">./Coronamoji.mov</a> instead.</p>
+		a <a href="CoronaFaceImpact.mov">./CoronaFaceImpact.mov</a> instead.</p>
 </video>
