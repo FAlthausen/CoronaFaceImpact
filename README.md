@@ -7,9 +7,5 @@ I have drawn a corona variable font with three axes:
 • Results of home schooling.
 
 Feel free to play around with this.
-<video controls>
-	<source src="Coronamoji.mov" type="video/quicktime">
 
-	<p>Your browser doesn't support HTML5 video. Here is
-		a <a href="CoronaFaceImpact.mov">./CoronaFaceImpact.mov</a> instead.</p>
-</video>
+![VideoPreview](VideoPreview.png)
